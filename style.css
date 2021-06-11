@@ -2,7 +2,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 section.header{
-    background:radial-gradient(#15324300,#16616ee8),url(/Banner\ home.jpg);
+    background:radial-gradient(#15324300,#16616ee8),url(Banner\ home.jpg);
     background-color: transparent;
     opacity: 1;
     background-size: cover;
@@ -86,7 +86,7 @@ section.header{
     
 }
 .service-img{
-    background: url(/service\ 1\ home.jpg);
+    background: url(service\ 1\ home.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -100,14 +100,14 @@ section.header{
     font-size: 28px;
 }
 .service-img:hover{
-    background:linear-gradient(180deg,#15324300,#15324348),url(/service\ 1\ home.jpg);
+    background:linear-gradient(180deg,#15324300,#15324348),url(service\ 1\ home.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     transition: .3s;
 }
 .service-img-a{
-    background: url(/service\ 2\ home.jpg);
+    background: url(service\ 2\ home.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -122,14 +122,14 @@ section.header{
 }
     
 .service-img-a:hover{
-    background:linear-gradient(180deg,#15324300,#15324348),url(/service\ 2\ home.jpg);
+    background:linear-gradient(180deg,#15324300,#15324348),url(service\ 2\ home.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     transition: .3s;
 }
 .service-img-b{
-    background: url(/service\ 3.jpg);
+    background: url(service\ 3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -144,7 +144,7 @@ section.header{
 }
     
 .service-img-b:hover{
-    background:linear-gradient(180deg,#15324300,#15324348),url(/service\ 3.jpg);
+    background:linear-gradient(180deg,#15324300,#15324348),url(service\ 3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -180,7 +180,7 @@ section.header{
     transition: .3s;
 }
 .action-container{
-    background:linear-gradient(45deg,#1532432c,#16616eec),url(/call\ to\ action\ home.jpg);
+    background:linear-gradient(45deg,#1532432c,#16616eec),url(call\ to\ action\ home.jpg);
     background-color: transparent;
     background-attachment: fixed;
     background-size: cover;

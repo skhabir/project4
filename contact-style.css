@@ -2,7 +2,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 section.header{
-    background:linear-gradient(-45deg,#15324342,#16616ee8),url(/Banner\ home.jpg);
+    background:linear-gradient(-45deg,#15324342,#16616ee8),url(Banner\ home.jpg);
     background-color: transparent;
     opacity:.9;
     background-attachment: fixed;
